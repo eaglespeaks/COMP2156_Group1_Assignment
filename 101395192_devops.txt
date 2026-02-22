@@ -1,0 +1,5 @@
+COMP2156 – DevOps for System Administration introduces students to Git, CI/CD, automation, cloud computing, and system administration principles.
+
+The course emphasizes collaboration, version control, continuous integration, and infrastructure automation.
+
+Students gain hands-on experience using GitHub, GitHub Actions, and DevOps workflows.
