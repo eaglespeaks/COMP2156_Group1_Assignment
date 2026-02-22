@@ -9,3 +9,6 @@ This repository demonstrates collaborative DevOps practices including:
 - Git branching
 - Pull requests
 - CI integration
+
+## CI Tool Used
+- GitHub Actions
